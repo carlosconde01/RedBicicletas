@@ -28,16 +28,3 @@ $.ajax({
 
 })
 
-
-// bicicleta_list = function (req, res) {
-//     Bicicleta.all()
-//         .then((data) => {
-//             console.log(bicicletas)
-//             let bicicletas = data;
-//             for (i in bicicletas) {
-//                 L.marker([bicicletas[i].lat, bicicletas[i].lon], { title: bici.id }).addTo(map);
-//             }
-
-//         })
-
-// }
